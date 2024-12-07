@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h2>Mondus Seriae</h2>
+
+<h3 style>Texta</h3>
+<ul>
+  <p>
+    <ul style="padding-left:0">
+      <li><a href="serius/aventicium.html" style="color: red">Kyklon Aventicium</a><br></li>
+    </ul>
+  </p>
+</ul>
+  
+</body>
