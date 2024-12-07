@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyklon Aventicium</title>
+    <style>
+        body {
+            font-family: "Georgia", serif;
+            line-height: 1.8;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fdfdfd;
+            color: #333;
+        }
+        h1, h2 {
+            font-family: "Palatino Linotype", serif;
+            color: #444;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        .day {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+        .poem {
+            white-space: pre-wrap;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Kyklon Aventicium</h1>
+
+    <section>
+        <div class="day">● die I - Ansano da Saena Julia martire</div>
+        <div class="poem">
+            Un tappeto indorato,  
+            fulgente come quel  
+            d'un mercatante a  
+            caravanserraglio  
+            nelle sabbie  
+            levantine.  
+            Come il canarino  
+            nelle miniere di  
+            carbone,  
+            è l'inizio  
+            del lungo letargo  
+            di vita.
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die II - S. Bibiana martire</div>
+        <div class="poem">
+            Gelo pungente,  
+            vetri resi  
+            opachi  
+            da intensa  
+            dialettica;  
+            non su  
+            fanciullesche  
+            apparizioni,  
+            gemelle,  
+            ma sull'amor,  
+            futuro,  
+            e sul nichilismo  
+            totalizzante  
+            dell'anima  
+            atrofizzata.
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die III - S. Francesco Saverio</div>
+        <div class="poem">
+            Cordis die.  
+            Rammendare il rotto,  
+            e una e cento volte,  
+            mai stanco,  
+            sempre fiducioso.  
+            Il successo  
+            non è altro che  
+            un susseguirsi  
+            d'insuccessi  
+            crescentemente  
+            infrequenti.  
+            Sempre  
+            e per sempre  
+            credere  
+            nel cambiamento.
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die III bis</div>
+        <div class="poem">
+            E se fossimo noi,  
+            in Corea?  
+
+            Se fossimo noi,  
+            oggi,  
+            ad assistere  
+            al crollo  
+            della nostra  
+            democrazia?  
+            delle nostre  
+            istituzioni?  
+            della nostra  
+            dignità?  
+            Una sola cosa  
+            è da credere  
+            per gli anni  
+            venturi:  
+            sic semper  
+            tyrannis.
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die IV - S. Barbara Martire</div>
+        <div class="poem">
+            Gioia  
+            s'una coltre  
+            di nebbia;  
+            Gioia nel  
+            successo  
+            e negli  
+            affetti;  
+            Basterà  
+            come talismano  
+            per il passato  
+            erompente?
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die V - S. Giulio</div>
+        <div class="poem">
+            L'insensatezza  
+            del tempo  
+            sprecato;  
+            l'infamia  
+            dell'improduttivo,  
+            la tristezza,  
+            dell'irrealizzato;  
+            L'unica via,  
+            è quella sisifea.
+        </div>
+    </section>
+
+    <section>
+        <div class="day">● die VI - S. Nicola</div>
+        <div class="poem">
+            <!-- Sembra incompleto nel file originale -->
+        </div>
+    </section>
+</body>
+</html>
